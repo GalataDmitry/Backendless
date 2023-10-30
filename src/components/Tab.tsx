@@ -1,7 +1,10 @@
-import {lazy, Suspense} from "react"
+import {lazy, Suspense, useEffect} from "react"
+import {useLocation} from "react-router-dom";
 
 const Tab = ({path}: { path: string }) => {
+
     const Component = lazy(() => import(`../${path}`))
+
     return <Suspense fallback={<>Loading...</>}>
         <Component/>
     </Suspense>

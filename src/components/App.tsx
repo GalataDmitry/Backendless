@@ -10,7 +10,7 @@ const App = () => {
 
     return <div className="app">
         <main className="app_main">
-            <nav className ='tabs_link'>
+            <nav className='tabs_link'>
                 {tabs.map(tab => (
                     <NavTabs key={tab.order} tabsId={tab.id} tabsTitle={tab.title}/>
                 ))}

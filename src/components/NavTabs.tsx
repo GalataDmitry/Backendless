@@ -1,4 +1,4 @@
-import {Link} from "react-router-dom"
+import {NavLink} from "react-router-dom"
 import '../styles/App.css'
 
 interface NavTabsTypes {
@@ -6,6 +6,6 @@ interface NavTabsTypes {
     tabsTitle: string
 }
 
-const NavTabs = ({tabsId, tabsTitle}: NavTabsTypes) => <Link className='link' to={tabsId}>{tabsTitle}</Link>
+const NavTabs = ({tabsId, tabsTitle}: NavTabsTypes) => <NavLink className='link' to={tabsId}>{tabsTitle}</NavLink>
 
 export default NavTabs
