@@ -2,7 +2,7 @@ import {Routes, Route, useLocation} from 'react-router-dom'
 import NavTabs from "./NavTabs"
 import Tab from "./Tab"
 import tabs from '../tabs.json'
-import '../App.css'
+import '../styles/App.css'
 
 const App = () => {
 

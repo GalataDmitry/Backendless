@@ -1,4 +1,4 @@
-import '../App.css'
+import '../styles/App.css'
 const DummyChart = () => <table className='table'>
     <tr>
         <td>Dummy</td>
