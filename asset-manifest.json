@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/Backendless/static/css/main.6f69a879.css",
-    "main.js": "/Backendless/static/js/main.59ea7fec.js",
+    "main.js": "/Backendless/static/js/main.f03aedb9.js",
     "static/js/398.403a1ba0.chunk.js": "/Backendless/static/js/398.403a1ba0.chunk.js",
+    "static/js/223.fbc9de5d.chunk.js": "/Backendless/static/js/223.fbc9de5d.chunk.js",
     "static/js/569.18ebfeca.chunk.js": "/Backendless/static/js/569.18ebfeca.chunk.js",
     "static/js/303.256af989.chunk.js": "/Backendless/static/js/303.256af989.chunk.js",
     "static/js/786.d65306cd.chunk.js": "/Backendless/static/js/786.d65306cd.chunk.js",
     "index.html": "/Backendless/index.html",
     "main.6f69a879.css.map": "/Backendless/static/css/main.6f69a879.css.map",
-    "main.59ea7fec.js.map": "/Backendless/static/js/main.59ea7fec.js.map",
+    "main.f03aedb9.js.map": "/Backendless/static/js/main.f03aedb9.js.map",
     "569.18ebfeca.chunk.js.map": "/Backendless/static/js/569.18ebfeca.chunk.js.map",
     "303.256af989.chunk.js.map": "/Backendless/static/js/303.256af989.chunk.js.map",
     "786.d65306cd.chunk.js.map": "/Backendless/static/js/786.d65306cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f69a879.css",
-    "static/js/main.59ea7fec.js"
+    "static/js/main.f03aedb9.js"
   ]
 }
