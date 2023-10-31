@@ -1,5 +1,4 @@
-import {lazy, Suspense, useEffect} from "react"
-import {useLocation} from "react-router-dom";
+import {lazy, Suspense} from 'react'
 
 const Tab = ({path}: { path: string }) => {
 
